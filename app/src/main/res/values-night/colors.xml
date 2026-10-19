@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lighter shades so the text stays readable on the dark theme -->
+    <color name="expired_red">#FFEF9A9A</color>
+    <color name="expiring_amber">#FFFFB74D</color>
+</resources>

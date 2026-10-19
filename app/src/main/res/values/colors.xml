@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Expiry status text colours (darker shades for the light theme) -->
+    <color name="expired_red">#FFC62828</color>
+    <color name="expiring_amber">#FFE65100</color>
 </resources>
